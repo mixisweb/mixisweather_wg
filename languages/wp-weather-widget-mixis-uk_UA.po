@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Weather Widget\n"
+"POT-Creation-Date: 2015-02-04 16:15+0200\n"
+"PO-Revision-Date: 2015-02-24 16:20+0200\n"
+"Last-Translator: Mixis Web Solution <info@mixis.net>\n"
+"Language-Team: Mixis.net <info@mixis.net>\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;__ngettext:1,2;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-weather-widget-mixis.php:23
+msgid "Weather Widget by Mixis"
+msgstr "Прогноз погоди"
+
+#: ../wp-weather-widget-mixis.php:24
+msgid "Widget for display weather info"
+msgstr "Віджет для відображення прогнозу погоди від компании Mixis"
+
+#: ../wp-weather-widget-mixis.php:38
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../wp-weather-widget-mixis.php:41
+msgid "City slug"
+msgstr "Slug міста"
+
+#: ../wp-weather-widget-mixis.php:44
+msgid "Icon color"
+msgstr "Колір зображення"
+
+#: ../wp-weather-widget-mixis.php:48
+msgid "White"
+msgstr "Білий"
+
+#: ../wp-weather-widget-mixis.php:49
+msgid "Black"
+msgstr "Чорний"
+
+#: ../wp-weather-widget-mixis.php:50
+msgid "Color"
+msgstr "Кольорові"
+
+#: ../wp-weather-widget-mixis.php:77
+msgid "Humidity"
+msgstr "Вологість"
+
+#: ../wp-weather-widget-mixis.php:78
+msgid "Wind"
+msgstr "Вітер"
+
+#: ../wp-weather-widget-mixis.php:78
+msgid "km/h"
+msgstr "км/год"
+
+#~ msgid "km\\h"
+#~ msgstr "км\\год"
+
+#~ msgid "km|h"
+#~ msgstr "км"
+
+#~ msgid "km&#47;h"
+#~ msgstr "км&#47;год"
